@@ -40,10 +40,17 @@
         <folder ID="s100" hidden="false" immutable="true" name="Eyebrow folder" type="eyebrow" unremovable="true">
             <channel fname="waffle-menu" unremovable="false" hidden="false" immutable="false" ID="n110"/>
             <channel fname="notification-icon" unremovable="false" hidden="false" immutable="false" ID="n120"/>
+            <!-- TODO How do I add this widget to a certain region of the page -->
             <channel fname="portal-greeting" unremovable="false" hidden="false" immutable="false" ID="n130"/>
             <channel fname="logout-launcher" unremovable="false" hidden="false" immutable="false" ID="n140"/>
             <channel fname="session-timeout" unremovable="false" hidden="false" immutable="false" ID="n150"/>
+            <!-- <channel fname="sidebar-widget" unremovable="false" hidden="false" immutable="false" ID="n160"/> -->
         </folder>
+
+        <!-- <folder ID="s200" hidden="false" immutable="true" name="Sidebar right" type="sidebar-right" unremovable="true">
+            <channel fname="sidebar-widget" unremovable="false" hidden="false" immutable="false" ID="n220"/>
+        </folder> -->
+
         <folder ID="s300" hidden="false" immutable="true" name="Customize folder" type="customize" unremovable="true">
             <channel fname="personalization-gallery" unremovable="false" hidden="false" immutable="false" ID="n310"/>
             <channel fname="background-preference" unremovable="true" hidden="false" immutable="false" ID="n320"/>
