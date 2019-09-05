@@ -18,6 +18,7 @@ dependencies {
     runtime "org.webjars.npm:uportal__esco-content-menu:${uPortalWebComponentsVersion}@jar"
     runtime "org.webjars.npm:uportal__waffle-menu:${uPortalWebComponentsVersion}@jar"
     runtime "org.webjars.npm:uportal__sidebar-widget:${uPortalWebComponentsVersion}-SNAPSHOT@jar"
+    // runtime "org.webjars.npm:uportal__sidebar-toggle:${uPortalWebComponentsVersion}-SNAPSHOT@jar"
 
     // Notification Webjars
     runtime "org.webjars.npm:uportal__notification-banner:${notificationWebComponentsVersion}@jar"

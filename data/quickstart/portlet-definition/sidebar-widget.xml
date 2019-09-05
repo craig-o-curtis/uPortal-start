@@ -91,7 +91,7 @@
         <readOnly>false</readOnly>
         <value>
             <![CDATA[
-              script src="https://unpkg.com/vue"></script>
+              <script src="/resource-server/webjars/vue/dist/vue.min.js"></script>
               <script type="text/javascript" src="/resource-server/webjars/sidebar-widget/dist/sidebar-widget.min.js"></script>
               <sidebar-widget data="/resource-server/data-url-point-to-get-data-student.json" ></sidebar-widget>
             ]]>
