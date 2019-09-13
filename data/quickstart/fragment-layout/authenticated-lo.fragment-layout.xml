@@ -47,9 +47,9 @@
             <!-- <channel fname="sidebar-widget" unremovable="false" hidden="false" immutable="false" ID="n160"/> -->
         </folder>
 
-        <!-- <folder ID="s200" hidden="false" immutable="true" name="Sidebar right" type="sidebar-right" unremovable="true">
+        <folder ID="s200" hidden="false" immutable="true" name="Sidebar right" type="sidebar-right" unremovable="true">
             <channel fname="sidebar-widget" unremovable="false" hidden="false" immutable="false" ID="n220"/>
-        </folder> -->
+        </folder>
 
         <folder ID="s300" hidden="false" immutable="true" name="Customize folder" type="customize" unremovable="true">
             <channel fname="personalization-gallery" unremovable="false" hidden="false" immutable="false" ID="n310"/>

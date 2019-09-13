@@ -93,7 +93,7 @@
             <![CDATA[
               <script src="/resource-server/webjars/vue/dist/vue.min.js"></script>
               <script type="text/javascript" src="/resource-server/webjars/sidebar-widget/dist/sidebar-widget.min.js"></script>
-              <sidebar-widget data="/resource-server/data-url-point-to-get-data-student.json" ></sidebar-widget>
+              <sidebar-widget endpoint="/resource-server/data-url-point-to-get-data-student.json" ></sidebar-widget>
             ]]>
         </value>
     </portlet-preference>
